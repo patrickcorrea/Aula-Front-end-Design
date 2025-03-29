@@ -1,0 +1,33 @@
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+
+h1{
+    color: #ffbc05;
+    font-size: 45px;
+    font-family: "Boldonse", system-ui;
+}
+
+h2, h3{
+    font-family: "Boldonse", system-ui;
+}
+
+img{
+    width: 350px;
+    height: 300px;
+    border-radius: 8px 80px 8px 80px;
+}
+
+a {
+    color: #07eca7;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800;
+    transition: .7s ;
+}
+
+a:hover {
+    color: #05a3ff;
+    text-decoration: underline;
+}
