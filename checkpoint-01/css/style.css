@@ -1,0 +1,53 @@
+/**************** NÃO APAGAR ****************/
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/Nunito-Regular.ttf);
+}
+
+/**************** NÃO APAGAR ****************/
+
+body {
+    font-family: Nunito;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color:  #544C94;
+    margin-top: 20px 0;
+}
+
+.box {
+    width: 700px;
+    margin: 20px auto;
+}
+
+.sub-box {
+    width: 500px;
+    margin: 20px auto;
+    border: 2px solid #515640;
+    border-radius: 7px;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+p {
+    font-size: 15px;
+    margin: 20px 0 40px;
+}
+
+h2 {
+    font-size: 35px;
+    margin: 20px 0;
+    color:  #751E63;
+}
